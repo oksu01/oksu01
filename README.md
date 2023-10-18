@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/oksu01/github-readme-stats)
 ![Jina's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksu01&show_icons=true&theme=radical)
 
 <!--
