@@ -6,7 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/oksu01/github-readme-stats)
 
 ![Jina's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksu01&show_icons=true&theme=onedark)
+
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjina&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/oksu01)
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
 
 <!--
