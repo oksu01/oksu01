@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jina's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/oksu01/github-readme-stats)
 
-
 ![Jina's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksu01&show_icons=true&theme=onedark)
-
-
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjina&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/oksu01)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
 
 <!--
 **oksu01/oksu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
