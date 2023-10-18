@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jina's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-[![JINA's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksu01&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/oksu01/github-readme-stats)
-
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
