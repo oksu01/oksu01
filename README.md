@@ -1,15 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jina's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/oksu01/github-readme-stats)
-
-![Jina's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksu01&show_icons=true&theme=onedark)
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
 
 <!--
 **oksu01/oksu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
