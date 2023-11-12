@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:c2d1c9,100:c5e2e2&height=240&text=Hi%20there&animation=fadeIn&fontColor=fbf9f9&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=240&text=Hi%20there&animation=fadeIn&fontColor=fbf9f9&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤩 Kim Jin A </h2>  
