@@ -1,7 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ceb1b1,100:d7a2a2&height=120&text=Hi%20there&animation=fadeIn&fontColor=f5f5f5&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
