@@ -32,9 +32,7 @@
 
 
     =====================
-
-
- # Hi there 👋, I'm Jina
+# Hi there 👋, I'm Jina
 
 I'm aspiring to become a developer!
 
