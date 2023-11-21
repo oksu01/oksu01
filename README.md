@@ -5,7 +5,9 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😊 Introduce </h2>
     </div>
     <div style="text-align: left;"> 
-        안녕하세요, 저는 김진아라고 합니다. 백엔드 개발에 관심이 많으며 Java와 Spring을 주로 사용합니다. 
+        안녕하세요, 저는 김진아입니다! 
+        <br>백엔드 개발에 관심이 많으며 Java와 Spring을 주로 사용합니다. 
+        <br>
         새로운 기술을 학습하고 적용하는 것을 즐기는 개발자입니다.
     </p>
 </div>
