@@ -27,4 +27,23 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    
+    =============================
+    <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a5945,100:2a7434&height=120&text=welcome%20&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+</div>
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; text-align: left; margin-top: 20px;">
+    <h2 style="border-bottom: 2px solid #ffffff; color: #c9d1d9;"> 😊 Introduce </h2>
+    <p style="color: #c9d1d9; font-size: 16px;">
+        안녕하세요, 저는 김진아라고 합니다. 백엔드 개발에 관심이 많으며 Java와 Spring을 주로 사용합니다. 
+        새로운 기술을 학습하고 적용하는 것을 즐기는 개발자입니다.
+    </p>
+</div>
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; text-align: left; margin-top: 20px;">
+    <h2 style="border-bottom: 2px solid #ffffff; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
+    <!-- 여기에 기술 스택 이미지나 설명 등 추가 -->
+</div>
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; text-align: left; margin-top: 20px;">
+    <h2 style="border-bottom: 2px solid #ffffff; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
+    <!-- 여기에 연락처 정보 등 추가 -->
+</div>
+
