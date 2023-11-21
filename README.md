@@ -1,5 +1,6 @@
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; text-align: center;">
-    <h1 style="color: #ffffff; font-size: 32px; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">👋 Welcome</h1>
+    <div style="background-color: #21262d; padding: 10px; border-radius: 8px;">
+        <h1 style="color: #ffffff; font-size: 36px; margin-bottom: 10px;">👋 Welcome</h1>
 
 
 <div align= "center">
