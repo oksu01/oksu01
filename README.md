@@ -28,3 +28,25 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+
+
+
+    =====================
+
+
+ # Hi there 👋, I'm Jina
+
+I'm aspiring to become a developer!
+
+- 🌱 I’m currently learning Machine Learning, AI, and Computer Vision.
+- 📫 You can reach me at: [oksu010@gmail.com](mailto:oksu010@gmail.com)
+- 📄 [My Notion](https://www.notion.so/jin-a/63e055c16f2f4468ae3f78fb890e5b65)
+
+## ✏ Stack
+
+Your tech stack goes here!
+
+## GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/your-username)
+
