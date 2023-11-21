@@ -28,17 +28,3 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-
-
-====================
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">
-        <a href="https://www.notion.so/jin-a/63e055c16f2f4468ae3f78fb890e5b65">
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-        </a>
-        <a href="mailto:oksu010@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-        </a>
-    </div>
-</div>
