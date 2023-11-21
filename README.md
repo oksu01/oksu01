@@ -8,7 +8,8 @@
         안녕하세요, 김진아입니다! 
         <br>백엔드 개발에 관심이 많으며 Java와 Spring을 주로 사용합니다. 
         <br>
-        새로운 기술을 학습하고 적용하는 것을 즐기는 개발자입니다 감사합니다!
+        새로운 기술을 학습하고 적용하는 것을 즐기는 개발자입니다.
+        <br>감사합니다!
     </p>
 </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
