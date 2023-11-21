@@ -1,3 +1,7 @@
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; text-align: center;">
+    <h1 style="color: #ffffff; font-size: 32px; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">👋 Welcome</h1>
+
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a5945,100:2a7434&height=120&text=welcome%20&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
