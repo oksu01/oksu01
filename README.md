@@ -2,10 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a5945,100:2a7434&height=120&text=welcome%20&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😊 Introduce </h2><h3>안녕하세요 
-        김진아입니다^_^</h3>
-
-        
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😊 Introduce </h2>
+    </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align: left;">
