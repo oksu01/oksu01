@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jina
+# Our possibilities are determined by our imagination
 
  안녕하세요, 김진아입니다! 
         <br>백엔드 개발에 관심이 많으며 **Java**와 **Spring**을 주로 사용합니다. 
